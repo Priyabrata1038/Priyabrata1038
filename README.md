@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Priyabrata1038
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Priyabrata Behera
 
-<!---
-Priyabrata1038/Priyabrata1038 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-Stack Developer | 🚀 Open Source Contributor 
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, JavaScript  
+- **Frontend:** HTML, CSS
+- **Backend:**  Spring Boot , hibernate
+- **Tools:** Git, GitHub, VS Code
+- **Database:** SQL
+
+---
+
+### 🤝 How to Reach Me
+
+📧 Email: priyabrata1038@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/priyabrata-behera-111122225555103810381038/
+
+---
+
+⭐ *If you like my projects, consider giving them a star!*
